@@ -3,6 +3,7 @@ RENACANA KONTEN WPU
 -javascript
 *ES6
 *framework javascript
+-struktur Data Dasar
 -PHP frameworks
 -interview
 -vlogs
